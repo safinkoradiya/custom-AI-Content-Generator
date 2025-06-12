@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk, scrolledtext
 import requests
 
-API_KEY = "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"
+API_KEY = "pleasea addd your api key"
 HEADERS = {
     "Authorization": f"Bearer {API_KEY}",
     "Content-Type": "application/json"
